@@ -14,6 +14,7 @@ letEN = 'a b v g d e yo zh z i j k l m n o p r s t u f h c ch sh shch " y \' e y
 def slovar(ru,en):
     translit_ruls = {}
     a = 0
+    
     b = 0
     # Слияние списков в словарь
     for i in ru :
